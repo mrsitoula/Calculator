@@ -1,0 +1,17 @@
+.Button {
+  display: flex;
+  height: 4em;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+  font-weight: bolder;
+  font-size: 1.4em;
+  background-color: #38101c;
+  color: #99cc00;
+  outline: 1px solid #888;
+}
+
+.Operator {
+  background-color: #cc3300;
+  color: white;
+}
